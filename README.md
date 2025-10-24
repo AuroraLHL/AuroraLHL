@@ -1,6 +1,6 @@
 - Currently M.E. Student at [Peking University (PKU)](https://www.pku.edu.cn/)
-- Previously Intern at [Alibaba QuarkLLM](https://ai.quark.cn/), [Moonshot AI (Kimi RL Team)](https://www.moonshot.cn/)
-- **Research Focus**: Recently Agentic RL, Multi-Agent Systems, and Self-Play Training. Previously LLM for Optimization and Optimization Modeling.
+- Former Intern at [Alibaba Quark(RL Team)](https://github.com/Alibaba-Quark) and [Moonshot AI (RL Team)](https://www.moonshot.cn)
+- Research Interests: Agentic RL, Multi-Agent Systems, and Self-Play Training; LLM-based Optimization and Optimization Modeling
 
 <p align="center">
 <a> <img align="center" 
