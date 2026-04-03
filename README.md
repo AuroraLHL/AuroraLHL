@@ -2,4 +2,4 @@
 - B.E. from [Peking University (PKU)](https://www.pku.edu.cn/) (2019-2023)
 - Currently interning at [Tongyi Lab](https://tongyi.aliyun.com/)(Mar 2026 – Present)
 - Previously interned in the RL teams at [Alibaba Quark](https://github.com/Alibaba-Quark) and [Moonshot AI](https://www.moonshot.cn)
-- Research Interests: Agentic RL, Multi-Agent Systems, and Self-Play; LLM for Optimization Modeling
+- Research Interests: Agentic RL, Multi-Agent Systems, and Self-Evolving Agents; LLM for Optimization Modeling
