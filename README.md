@@ -1,4 +1,3 @@
-### About Me
 
 I am **Hongliang Lu (卢红亮)**. I hold an M.E. in Mechanical Engineering from [Peking University](https://www.pku.edu.cn/) (2023–2026), advised by [Prof. Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html), and a B.E. in Robotics Engineering from PKU (2019–2023).
 
